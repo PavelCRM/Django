@@ -1,0 +1,79 @@
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 219
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+"GET /about HTTP/1.1" 301 0
+"GET /about/ HTTP/1.1" 200 261
+"GET / HTTP/1.1" 200 219
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 216
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 214
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 237
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 402
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1915
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\учеба\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 255
+"GET /about/ HTTP/1.1" 200 1797
